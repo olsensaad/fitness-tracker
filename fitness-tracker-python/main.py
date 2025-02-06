@@ -1,3 +1,4 @@
+#branch testing
 import customtkinter as ctk
 from tkinter import messagebox, ttk, Menu
 import pickle
@@ -479,5 +480,5 @@ class FitnessTrackerApp(ctk.CTk):
 
 if __name__ == "__main__":
     app = FitnessTrackerApp()
-    #retesting the version control in Github 1234
+    
     app.mainloop()
