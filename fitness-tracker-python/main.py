@@ -479,5 +479,5 @@ class FitnessTrackerApp(ctk.CTk):
 
 if __name__ == "__main__":
     app = FitnessTrackerApp()
-    #retesting the version control in Github 123
+    #retesting the version control in Github 1234
     app.mainloop()
